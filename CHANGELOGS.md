@@ -5,6 +5,10 @@
 自動化修復整個倉庫的 Markdown Lint 問題。
 Automated markdown linting fixes throughout the repository.
 
+- (2025-11-29 12:43:31) [c4fb571] style: auto-fix markdown lint issues
+- (2025-11-29 11:47:05) [bdff1b0] style: auto-fix markdown lint issues
+- (2025-11-29 11:45:33) [a44d6d2] style: auto-fix markdown lint issues
+- (2025-11-29 11:44:51) [3be257e] style: auto-fix markdown lint issues
 - (2025-11-29 08:54:40) [a9d6b21] style: auto-fix markdown lint issues
 - (2025-11-29 08:39:09) [0d1793e] style: auto-fix markdown lint issues
 - (2025-11-29 07:39:53) [2b891d2] style: auto-fix markdown lint issues
@@ -21,6 +25,18 @@ Automated markdown linting fixes throughout the repository.
 倉庫維護：合併 PR、整理檔案與更新文件。
 Repository maintenance, merging pull requests, file organization, and documentation updates.
 
+- (2025-11-29 21:02:15) [94e7c56] Merge pull request #51 from VansonLeung/feat/20251129-header-menu-localization
+- (2025-11-29 20:55:36) [f53c8c9] Merge pull request #50 from nessgor/main
+- (2025-11-29 20:46:37) [a7aaf3c] Merge pull request #49 from TimothyHo/main
+- (2025-11-29 20:43:15) [9d7d682] Merge pull request #48 from bearyung/patch-1
+- (2025-11-29 20:19:40) [4ddcd25] Merge pull request #46 from Vectorial1024/readme_review
+- (2025-11-29 19:47:15) [6e7829a] Merge pull request #39 from VansonLeung/feat/20251129-wayback-machine
+- (2025-11-29 19:46:52) [433e7ed] Merge pull request #37 from VansonLeung/feat/20251129-changelogs
+- (2025-11-29 19:46:27) [a85b450] Merge pull request #34 from elizso/main
+- (2025-11-29 19:46:11) [2c6a329] Merge pull request #33 from Hilo-Hilo/scraper-updates
+- (2025-11-29 19:45:19) [1ff7d25] Merge pull request #32 from elizso/patch-5
+- (2025-11-29 19:44:40) [a81035c] Merge pull request #31 from elizso/patch-3
+- (2025-11-29 19:44:19) [a2b2e09] Merge pull request #30 from elizso/patch-1
 - (2025-11-29 16:54:27) [c9b6fd9] Merge pull request #28 from cswbrian/fix-video-landing
 - (2025-11-29 16:38:57) [6b4faa6] Merge pull request #26 from cswbrian/organize-video-documentation
 - (2025-11-29 15:39:43) [77edd06] Merge pull request #25 from cswbrian/update-readme-docs
@@ -70,9 +86,12 @@ Added comprehensive video documentation, collection guides, and meeting minutes 
 
 ## Duo
 
-導入 MkDocs 設定、多語系支援與文件架構。
-Implemented MkDocs configuration, multi-language support, and documentation structure.
+導入 MkDocs 設定、多語系支援與文件架構，並後續套用 CC BY-SA 授權與修復 Wayback 429 失敗。
+Implemented MkDocs configuration, multi-language support, documentation structure, applied CC BY-SA licensing, and fixed Wayback 429 failures.
 
+- (2025-11-29 20:39:00) [434c4e3] Fix CI failure: Handle 429 Too Many Requests from Wayback Machine gracefully
+- (2025-11-29 19:52:41) [3b836cb] Restore detailed README.md and remove LICENSE file
+- (2025-11-29 16:58:25) [b648aa2] Apply CC BY-SA 4.0 License
 - (2025-11-29 15:37:26) [f0dae54] Fix locale: use zh-Hant instead of zh to ensure Traditional Chinese UI elements (e.g. Table of Contents)
 - (2025-11-29 15:23:20) [4085ca5] Update theme to modern monochrome grayscale
 - (2025-11-29 15:18:01) [57aea79] Add detailed README files for Docs section (zh/en)
@@ -176,3 +195,74 @@ Added and organized meeting minutes documentation.
 Added fire incident timeline.
 
 - (2025-11-29 06:27:06) [552c423] add fire-linear-timeline
+
+## Vanson Leung
+
+增設 Wayback Machine 自動封存、同步雙語變更記錄，並讓網站頁首支援中英文。
+Added Wayback archival workflow, synchronized bilingual changelog wording, and localized the site header.
+
+- (2025-11-29 20:58:07) [8d19b37] header toolbar localization
+- (2025-11-29 19:43:53) [acd03e6] add wayback machine workflow
+- (2025-11-29 19:43:21) [8e1b519] changelogs bilingual
+
+## Ness Li
+
+新增商業電台新聞條目並同步上游 main 分支。
+Added Commercial Radio news coverage and synced with upstream main.
+
+- (2025-11-29 12:52:45) [d2b9f4b] Merge branch 'Hong-Kong-Emergency-Coordination-Hub:main' into main
+- (2025-11-29 12:51:42) [92e6327] chore: adding commercial radio news
+
+## Vincent Wong
+
+釐清 README 內容，讓使用者更易理解。
+Clarified README wording for better reader understanding.
+
+- (2025-11-29 20:11:15) [e9ad180] Clarify the readme
+
+## TimothyHo
+
+上載消防通告與相關文件，補充防火與建築安全資訊。
+Uploaded Fire Protection Notice materials and related documentation.
+
+- (2025-11-29 20:25:23) [d73e012] Section 7 of the Fire Protection Notice No. 13
+- (2025-11-29 20:15:51) [39d8041] Add files via upload
+- (2025-11-29 19:26:41) [cc21e5b] Add files via upload
+
+## bearyung
+
+修訂 2021-10-04 會議記錄內容。
+Revised the 4 Oct 2021 meeting minutes.
+
+- (2025-11-29 23:09:03) [5c98e73] Revise meeting minutes for October 4, 2021
+
+## News Scraper Bot
+
+自動更新新聞爬蟲樣式與記錄，新增東方日報模式並同步日誌。
+Automated scraper updates adding the Oriental Daily pattern and refreshed scraper logs.
+
+- (2025-11-29 02:13:05) [3770301] chore(scraper): add 東方日報 pattern + test archives
+- (2025-11-29 02:05:05) [10d5b31] chore(logs): update scraper logs
+- (2025-11-29 02:05:05) [fe73000] chore(scraper): auto-scrape 2025-11-29 02:05
+
+## Hilo-Hilo
+
+擴充新聞爬蟲設定並整理來源，包含新增環境設定檔、自動擷取新聞，以及補充新聞列表。
+Expanded the news scraper setup and datasets by adding env templates, running auto-captures, and contributing news entries.
+
+- (2025-11-29 17:11:33) [50e9494] style: auto-fix markdown lint issues
+- (2025-11-29 17:11:09) [c507ef4] feat(scraper): add env.example template and update .gitignore
+- (2025-11-29 17:02:53) [4fa3c86] chore(scraper): auto-scrape 2025-11-29 01:02
+- (2025-11-29 17:02:52) [ebb96c9] Merge remote-tracking branch 'upstream/main'
+- (2025-11-29 16:59:36) [be9d2fe] added news articles
+
+## elizso
+
+補充 ABC 新聞資料並同步火災時間線（中英文），確保媒體來源與時間表內容完整。
+Added ABC news coverage and refreshed both Chinese and English fire timelines for completeness.
+
+- (2025-11-29 18:07:36) [91f9055] Merge pull request #1 from elizso/patch-4
+- (2025-11-29 18:03:50) [f1e1f03] Create README.md for ABC
+- (2025-11-29 17:50:06) [5d24082] Adding ABC to README.md
+- (2025-11-29 17:39:59) [0389eab] Update fire-linear-timeline-en.md
+- (2025-11-29 17:25:39) [e88e6d7] Update fire-linear-timeline-zh.md for 29/11
