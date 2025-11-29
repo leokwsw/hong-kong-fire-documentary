@@ -17,8 +17,22 @@ This section contains replies from government departments, public letters, statu
 - **Fire Services Department (FSD)**
   - [Fire Safety Code](Fire%20Safety%20Code.png)
 
+- **Social Welfare Department (SWD)**
+  - [Tai Po (South) Integrated Family Service Centre Service Boundary (Oct 2024)](TP(S)IFSC_Service%20Boundary%20(Oct%202024).pdf) - Collected from: <https://www.swd.gov.hk/storage/asset/section/643/tc/TP(S)IFSC_Service%20Boundary%20(Oct%202024).pdf>
+
 - **Home Affairs Department (HAD)**
-  - [Information on Sub-district Care Teams and Communication Channels (Tai Po)](content/docs/TP09_Wang_Fuk_Chi.pdf) - Collected from: <https://www.had.gov.hk/file_manager/tc/documents/public_services/district_services_community_care_teams/second/TP09_Wang_Fuk_Chi.pdf>
+  - [Information on Sub-district Care Teams and Communication Channels (Tai Po)](TP09_Wang_Fuk_Chi.pdf) - Collected from: <https://www.had.gov.hk/file_manager/tc/documents/public_services/district_services_community_care_teams/second/TP09_Wang_Fuk_Chi.pdf>
+
+- **Typical Floor Plan (Hong Kong Housing Authority)**
+
+  - [Wang Fuk Court Wang Yan House (Block A) Typical Floor Plan](Typical%20Floor%20Plan/wangfukcourt_ba.pdf) - Collected from: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_ba.pdf>
+  - [Wang Fuk Court Wang Tao House (Block B) Typical Floor Plan](Typical%20Floor%20Plan/wangfukcourt_bb.pdf) - Collected from: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bb.pdf>
+  - [Wang Fuk Court Wang Sun House (Block C) Typical Floor Plan](Typical%20Floor%20Plan/wangfukcourt_bC.pdf) - Collected from: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bC.pdf>
+  - [Wang Fuk Court Wang Kin House (Block D) Typical Floor Plan](Typical%20Floor%20Plan/wangfukcourt_bd.pdf) - Collected from: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bd.pdf>
+  - [Wang Fuk Court Wang Tai House (Block E) Typical Floor Plan](Typical%20Floor%20Plan/wangfukcourt_bE.pdf) - Collected from: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bE.pdf>
+  - [Wang Fuk Court Wang Cheong House (Block F) Typical Floor Plan](Typical%20Floor%20Plan/wangfukcourt_bf.pdf) - Collected from: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bf.pdf>
+  - [Wang Fuk Court Wang Shing House (Block G) Typical Floor Plan](Typical%20Floor%20Plan/wangfukcourt_bg.pdf) - Collected from: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bg.pdf>
+  - [Wang Fuk Court Wang Chi House (Block H) Typical Floor Plan](Typical%20Floor%20Plan/wangfukcourt_bh.pdf) - Collected from: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bh.pdf>
 
 ## Wang Fuk Court Owners' Corporation Meeting Minutes
 

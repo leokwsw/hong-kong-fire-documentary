@@ -17,6 +17,23 @@
 - **消防處 (Fire Services Department)**
   - [消防安全守則 (Fire Safety Code)](Fire%20Safety%20Code.png)
 
+- **社會福利署 (SWD)**
+  - [南大埔綜合家庭服務中心服務範圍 (2024年10月)](TP(S)IFSC_Service%20Boundary%20(Oct%202024).pdf) - 收集自: <https://www.swd.gov.hk/storage/asset/section/643/tc/TP(S)IFSC_Service%20Boundary%20(Oct%202024).pdf>
+
+- **民政事務總署 (HAD)**
+  - [大埔區分區委員會小區關愛隊概要和 聯絡途徑](TP09_Wang_Fuk_Chi.pdf) - 收集自: <https://www.had.gov.hk/file_manager/tc/documents/public_services/district_services_community_care_teams/second/TP09_Wang_Fuk_Chi.pdf>
+
+- **樓層平面圖 (香港房屋委員會)**
+
+  - [宏福苑宏仁閣 (A座) 典型樓層平面圖](content/docs/Typical%20Floor%20Plan/wangfukcourt_ba.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_ba.pdf>
+  - [宏福苑 (B座) 典型樓層平面圖](content/docs/Typical%20Floor%20Plan/wangfukcourt_bb.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bb.pdf>
+  - [宏福苑 (C座) 典型樓層平面圖](content/docs/Typical%20Floor%20Plan/wangfukcourt_bC.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bC.pdf>
+  - [宏福苑 (D座) 典型樓層平面圖](content/docs/Typical%20Floor%20Plan/wangfukcourt_bd.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bd.pdf>
+  - [宏福苑 (E座) 典型樓層平面圖](content/docs/Typical%20Floor%20Plan/wangfukcourt_bE.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bE.pdf>
+  - [宏福苑 (F座) 典型樓層平面圖](content/docs/Typical%20Floor%20Plan/wangfukcourt_bf.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bf.pdf>
+  - [宏福苑 (G座) 典型樓層平面圖](content/docs/Typical%20Floor%20Plan/wangfukcourt_bg.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bg.pdf>
+  - [宏福苑 (H座) 典型樓層平面圖](content/docs/Typical%20Floor%20Plan/wangfukcourt_bh.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bh.pdf>
+
 ## 宏福苑業主立案法團會議記錄 (Meeting Minutes)
 
 收錄 2021 年至 2025 年間，宏福苑業主立案法團管理委員會的會議記錄，以供查閱屋苑維修及管理之討論過程。
