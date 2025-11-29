@@ -1,4 +1,4 @@
-name: Lint & test
+name: Lint & Test
 
 on:
   push:
@@ -25,10 +25,10 @@ jobs:
       - name: Install uv
         uses: astral-sh/setup-uv@1e862dfacbd1d6d858c55d9b792c756523627244  # v7.1.4
 
-      - name: Run lint
+      - name: Run linters
         run: uv run perk run -a
 
-      - name: Run markdownlint
+      - name: Run markdownlint fix
         uses: DavidAnson/markdownlint-cli2-action@05f32210e84442804257b2a6f20b273450ec8265  # v19.1.0
         with:
           globs: '**/*.md'
