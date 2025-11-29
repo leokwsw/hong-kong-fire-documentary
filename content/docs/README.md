@@ -40,6 +40,13 @@ keywords: 政府文件, 官方記錄, 會議記錄, 防火通告, 行政文件, 
   - [宏福苑 (G座) 典型樓層平面圖](Typical%20Floor%20Plan/wangfukcourt_bg.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bg.pdf>
   - [宏福苑 (H座) 典型樓層平面圖](Typical%20Floor%20Plan/wangfukcourt_bh.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bh.pdf>
 
+## **宏福苑大維修工程相關文件**
+- **[工程解說會簡報 (宏業及鴻毅)](renovation_docs/工程解說會簡報(宏業及鴻毅).pdf)** - 收集自: <http://www.wangfuk.org/html/home/doc/%E5%B7%A5%E7%A8%8B%E8%A7%A3%E8%AA%AA%E6%9C%83%E7%B0%A1%E5%A0%B1(%E5%AE%8F%E6%A5%AD%E5%8F%8A%E9%B4%BB%E6%AF%85).pdf>
+- **[強制驗樓修葺工程標書簡要](renovation_docs/8.強制驗樓修葺工程標書簡要.pdf)**  - 收集自: <http://www.wangfuk.org/html/home/doc/%E6%A8%93%E5%AE%87%E5%BE%A9%E4%BF%AE%E5%B7%A5%E7%A8%8B%E8%B3%87%E6%96%99%E7%B0%A1%E5%A0%B1%E5%B0%8F%E5%86%8A%E5%AD%90.pdf>
+- **[樓宇復修工程資料簡報小冊子](renovation_docs/樓宇復修工程資料簡報小冊子.pdf)** - 收集自: <http://www.wangfuk.org/html/home/doc/2024-10-02%20L46-%E5%A4%96%E7%89%86%E6%96%BD%E5%B7%A5(%E4%BF%9D%E8%AD%B7%E6%8E%AA%E6%96%BD%E5%8F%8A%E6%89%93%E9%91%BF)%E6%B5%81%E7%A8%8B(A-H%E5%A1%B5).pdf>
+
+
+
 ## 宏福苑業主立案法團會議記錄 (Meeting Minutes)
 
 收錄 2021 年至 2025 年間，宏福苑業主立案法團管理委員會的會議記錄，以供查閱屋苑維修及管理之討論過程。
@@ -59,3 +66,5 @@ keywords: 政府文件, 官方記錄, 會議記錄, 防火通告, 行政文件, 
 - 2025-03-01
 
 *(更多年份請點擊上方連結進入子目錄查閱)*
+
+
