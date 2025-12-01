@@ -540,6 +540,20 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/rthk/"/>
     </url>
     <url>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/sbs/</loc>
+        <lastmod>2025-12-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/sbs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/sbs/"/>
+    </url>
+    <url>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/sbs/archive/2025-11-27-hong-kong-tai-po-blaze-highlights-cladding-risks-as-nsw-apartment-hazards-remain/</loc>
+        <lastmod>2025-12-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/sbs/archive/2025-11-27-hong-kong-tai-po-blaze-highlights-cladding-risks-as-nsw-apartment-hazards-remain/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/sbs/archive/2025-11-27-hong-kong-tai-po-blaze-highlights-cladding-risks-as-nsw-apartment-hazards-remain/"/>
+    </url>
+    <url>
         <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/scmp/</loc>
         <lastmod>2025-12-01</lastmod>
         <changefreq>daily</changefreq>
@@ -1321,6 +1335,20 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/rthk/"/>
         <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/rthk/"/>
+    </url>
+    <url>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/sbs/</loc>
+        <lastmod>2025-12-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/sbs/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/sbs/"/>
+    </url>
+    <url>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/sbs/archive/2025-11-27-hong-kong-tai-po-blaze-highlights-cladding-risks-as-nsw-apartment-hazards-remain/</loc>
+        <lastmod>2025-12-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/sbs/archive/2025-11-27-hong-kong-tai-po-blaze-highlights-cladding-risks-as-nsw-apartment-hazards-remain/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/sbs/archive/2025-11-27-hong-kong-tai-po-blaze-highlights-cladding-risks-as-nsw-apartment-hazards-remain/"/>
     </url>
     <url>
         <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/scmp/</loc>
