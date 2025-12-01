@@ -12,8 +12,9 @@ This section archives discussions, mutual aid information, and community voices 
 
 We are currently curating resident discussions from various channels, including:
 
+- **Social Media**
+    - [Wang Fuk Court Residents Facebook Group](https://www.facebook.com/groups/119139415465012/): Discussions on fire incident and maintenance issues
 - **Instant Messaging Groups**: Mutual aid messages from WhatsApp, Telegram owner/resident groups
-- **Social Media**: Relevant posts from Facebook groups and forums
 - **Offline Discussions**: Records from residents' meetings and concern group meetings
 
 *(Content is being curated and will be updated gradually)*
